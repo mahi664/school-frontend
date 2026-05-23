@@ -9,7 +9,6 @@ import {
   createNotice,
   updateNotice
 } from "../../services/adminNoticeService";
-import type { Notice } from "../../types/notice";
 
 const AdminNotices = () => {
   const [notices, setNotices] = useState<any[]>([]);
@@ -125,7 +124,7 @@ const AdminNotices = () => {
   return (
     <AdminLayout>
       <div>
-        <div className="flex flex-col gap-4 md:flex-row md:justify-between md:items-center mb-8 pt-16 md:pt-0 overflow-hidden">
+        <div className="flex flex-col gap-4 md:flex-row md:justify-between md:items-center mb-8 pt-16 md:pt-0">
           <div>
             <h1 className="text-3xl font-bold text-slate-800">Notices</h1>
             <p className="text-slate-500 mt-2">Manage school notices</p>

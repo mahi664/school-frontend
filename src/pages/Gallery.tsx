@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import AdmissionCTA from "../components/AdmissionsCTA";
-import { galleryItems } from "../data/galleryData";
 import { getGallery } from "../services/galleryService";
 
 const filters = [
