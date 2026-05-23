@@ -56,7 +56,7 @@ const AdminSettings = () => {
               className=" box-border border rounded-2xl px-4 py-3"
             />
             <input
-              name="phoneNummber"
+              name="phoneNumber"
               placeholder="Phone"
               value={formData.phoneNumber}
               onChange={handleChange}
