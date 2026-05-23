@@ -1,0 +1,37 @@
+<?xml version="1.0"
+encoding="UTF-8"?>
+
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>
+      https://nemsghotan.com/
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://nemsghotan.com/about
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://nemsghotan.com/gallery
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://nemsghotan.com/notices
+    </loc>
+  </url>
+
+  <url>
+    <loc>
+      https://nemsghotan.com/contact
+    </loc>
+  </url>
+
+</urlset>
